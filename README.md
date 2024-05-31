@@ -25,9 +25,6 @@ Driven by a passion for problem-solving, my journey as a mechanical engineer has
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-Kali Linux, Nessus, OWapZap, Wireshark, Nmap
 
 ### Network
 <div>
